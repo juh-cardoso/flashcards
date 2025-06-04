@@ -5,10 +5,9 @@
 }
 
 body {
-      font-family: Bai Jamjuree;
-  background: url("img/81+\ Verdes\ Wallpapers\ _\ Free\ download\ _\ Best\ Collection.jpeg");
-  background-size: cover;
-  
+     background: url('img/81+\ Verdes\ Wallpapers\ _\ Free\ download\ _\ Best\ Collection.jpeg');
+    font-family: Bai Jamjuree;
+
 }
 
 #container {
@@ -100,9 +99,6 @@ footer p {
 
 @media (max-width: 560px) {
     
-    body {
-        background: url("img/ceb97f5a-4749-4210-babe-407890b11701.jpeg"), no-repeat cover;
-    }
 
     .cartao {
         flex: 1 0 calc(100% - 1rem)

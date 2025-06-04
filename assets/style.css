@@ -102,6 +102,13 @@ footer p {
         background: url("img/81+\ Verdes\ Wallpapers\ _\ Free\ download\ _\ Best\ Collection.jpeg"), no-repeat cover;
     }
 
+body {
+  background-image: url("img/81+\ Verdes\ Wallpapers\ _\ Free\ download\ _\ Best\ Collection.jpeg");
+  background-size: cover; /* Garante que a imagem cobre toda a tela sem distorcer */
+  background-attachment: fixed; /* Para manter a imagem fixa enquanto rola */
+  background-repeat: no-repeat; /* Para evitar que a imagem se repita */
+}
+
     .cartao {
         flex: 1 0 calc(100% - 1rem)
     }

@@ -1,5 +1,5 @@
 :root {
-    --text-color: #DBE4EF;
+    --text-color: #000000;
     --card-front-color: #8c924f;
     --card-back-color: #6b7030;
 }
@@ -99,6 +99,10 @@ footer p {
 
 @media (max-width: 560px) {
     
+  body {
+        background: url("img/81+\ Verdes\ Wallpapers\ _\ Free\ download\ _\ Best\ Collection.jpeg"), no-repeat cover;
+    }
+
     .cartao {
         flex: 1 0 calc(100% - 1rem)
     }

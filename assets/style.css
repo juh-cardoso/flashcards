@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/ceb97f5a-4749-4210-babe-407890b11701.jpeg'), no-repeat cover;
+        background: url("img/ceb97f5a-4749-4210-babe-407890b11701.jpeg"), no-repeat cover;
     }
 
     .cartao {

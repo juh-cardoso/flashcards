@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url("img/81+\ Verdes\ Wallpapers\ _\ Free\ download\ _\ Best\ Collection.jpeg");
+  background-image: url("img/Butterfly.jpeg");
   background-size: cover;
   background-attachment: fixed; 
   background-repeat: no-repeat; 
@@ -99,7 +99,7 @@ footer p {
 }
 
 @media (max-width: 560px) {
-    
+
     .cartao {
         flex: 1 0 calc(100% - 1rem)
     }
